@@ -81,7 +81,7 @@
   </g>
  </g>
  <g partID="854106670">
-  <g transform="translate(75.2929,107.932)">
+  <g transform="translate(85.4526,107.778)">
    <g transform="matrix(0,-1,1,0,0,0)">
     <g id="copper0" >
      <circle cx="5.04" cy="5.04" fill="none" id="connector0pin" r="1.71212" stroke="rgb(255, 191, 0)" stroke-width="1.44" />
@@ -335,7 +335,7 @@
   </g>
  </g>
  <g partID="854324930">
-  <line stroke="#f28a00" stroke-linecap="round" stroke-width="1.728" x1="80.3329" x2="80.3329" y1="102.892" y2="102.892"/>
+  <line stroke="#f28a00" stroke-linecap="round" stroke-width="1.728" x1="81.7008" x2="89.5006" y1="102.872" y2="102.753"/>
  </g>
  <g partID="854445810">
   <line stroke="#f28a00" stroke-linecap="round" stroke-width="1.728" x1="66.5029" x2="80.568" y1="81.1337" y2="81.1238"/>
@@ -885,7 +885,7 @@
   </g>
  </g>
  <g partID="854106672">
-  <g transform="translate(75.2929,107.932)">
+  <g transform="translate(85.4526,107.778)">
    <g transform="matrix(0,-1,1,0,0,0)">
     <g id="copper1" >
      <g id="copper0" >
@@ -1774,7 +1774,7 @@
   </g>
  </g>
  <g partID="854106671">
-  <g transform="translate(75.2929,107.932)">
+  <g transform="translate(85.4526,107.778)">
    <g transform="matrix(0,-1,1,0,0,0)">
     <g id="silkscreen" >
      <line stroke="black" stroke-width="0.72" x1="1.44" x2="1.44"  y1="1.44" y2="8.64"/>
@@ -1902,7 +1902,7 @@
   </g>
  </g>
  <g id="partLabel" partID="854106670">
-  <g transform="translate(84.9171,94.7468)">
+  <g transform="translate(87.534,92.7456)">
    <g fill="#000000" fill-opacity="1" font-family="'OCR-Fritzing-mono'" font-size="5.000" font-style="normal" font-weight="normal" id="silkscreenLabel" stroke="none">
     <text x="0" y="5.000">J3</text>
    </g>
